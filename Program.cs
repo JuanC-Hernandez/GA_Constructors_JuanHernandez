@@ -2,7 +2,9 @@
 {
     internal class Program
     {
-
+        // Juan Hernandez
+        // Guided Assignment: Understanding Constructors in C Introduction
+        // 01/15/2024
         static void Main(string[] args)
         {
             Console.WriteLine("Exploring Constructors in C#");
